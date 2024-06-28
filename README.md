@@ -25,7 +25,7 @@ Run the script with the following options:
   - `-B -L <line_number>`: Backup specific location by line number.
 - `-R <backup_number>`: Restore recent backup by index.
   - `-R -L <line_number>`: Restore specific location by line number.
-- `-L`: List available backups.
+- `-V`: List available backups.
 - `-I`: Development option.
 
 If no options are provided, it lists locations in `locations.cfg`.
