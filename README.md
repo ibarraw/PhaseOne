@@ -41,6 +41,6 @@ If no options are provided, it lists locations in `locations.cfg`.
 - Backup all locations: `./bkmedia.sh -B`
 - Backup specific line: `./bkmedia.sh -B -L 2`
 - Restore recent backup: `./bkmedia.sh -R 1`
-- List backups: `./bkmedia.sh -L`
+- List backups: `./bkmedia.sh -V`
 
 Ensure `locations.cfg` exists and is properly formatted before running the script.
