@@ -38,6 +38,7 @@ If no options are provided, it lists locations in `locations.cfg`.
 
 ## Examples
 
+- Simple locations.cfg output `./bkmedia.sh`
 - Backup all locations: `./bkmedia.sh -B`
 - Backup all locations Error: `./bkmedia.sh -B 2`
 - Backup specific line: `./bkmedia.sh -B -L 2`
